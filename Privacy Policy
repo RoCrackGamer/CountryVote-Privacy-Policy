@@ -1,0 +1,24 @@
+Privacy Policy
+We, as a Discord service, need certain data to have a basic operation.
+
+Philosophy
+We follow an Open Source and privacy-friendly philosophy, therefore our main goal is to prevent unwanted data intrusion and the distribution of sensitive information.
+
+Data collection
+We collect the following data for the correct functioning of the bot:
+
+Information about your user that Discord provides us (email, password and tokens never)
+Information about the server that Discord provides us
+Messages sent on the server
+
+Data management
+The data we collect will be used in the following ways:
+
+- Get username, avatar, server name and user discriminator
+- Sum a variable by the messages a user sends
+
+Sale and distribution of data
+The data we receive will never be distributed or sold to anyone. The data is 100% private. We support our argument in the transparency of the code and the philosophy that we follow.
+
+Databases
+For databases, the server identifier and necessary server settings, such as enabling automoderation, are persistently stored. Exactly what items are used
